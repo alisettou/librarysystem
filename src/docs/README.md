@@ -1,8 +1,8 @@
 # نظام إدارة مكتبة رقمية
 
-الاسم: سهير  
- اللقب: يمبعي  
-الفوج: 1
+الاسم: علي  
+اللقب: ستو  
+الفوج: 4
 
 ---
 
@@ -26,7 +26,7 @@
 
 1. تأكد من توفر java jdk اصدار 8 او احدث مثبتا على جهازك
 2. قم بتحميل المشروع باستخدام Git:
-       git clone : [https://github.com/souhair09/Library-Management-System.git]
+       git clone : [https://github.com/alisettou/Library-Management-System.git]
 3. افتح المشروع باستخدام بيئة تطوير تدعم Java مثل (Eclipse أو IntelliJ أو VS Code).
 4. قم بتشغيل الكلاسات الأساسية مثل Main.java لبدء التطبيق.
 
